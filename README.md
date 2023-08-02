@@ -39,7 +39,7 @@ To get answers to question 2 I used the same approached from answering question 
 
 ![image](https://github.com/Maris27/TASK-1-On-Pivot-Tables/assets/140453106/eb44ab73-55b6-46d6-a2ee-7202681b6fc2)
 
-4. I used same approach for question 3 for answwering this, the difference was in this case i was tasked to analyze students that smoke and those that dont, so i dragged smoking to the row field so my YES/NO options can drop below it,then i also dragged the gender down to the value field and changed the value field to count so the number of student that smoke and those that dont can be summarized.
+4. I used same approach for question 3 for answering this, the difference was in this case i was tasked to analyze students that smoke and those that dont, so i dragged smoking to the row field so my YES/NO options can drop below it,then i also dragged the gender down to the value field and changed the value field to count so the number of student that smoke and those that dont can be summarized.
 
 
 ![image](https://github.com/Maris27/TASK-1-On-Pivot-Tables/assets/140453106/1dbbd3d1-e60a-4d36-83f6-a92f45f7e14b)
@@ -53,12 +53,23 @@ To get answers to question 2 I used the same approached from answering question 
 
 # DATA VISUALIZATION
 
-After the pivot table sessions ,we had an interesting session which is  data visualization. Data visualization is an essential part of data analysis and communication because it allows users to quickly understand trends,patterns and insights.It actually makes our analysis easy to interpret. After the session we were asked to visualize our insights from the pivot tables above.
+After the pivot table sessions ,we had an interesting session which is  data visualization. Data visualization is an essential part of data analysis and communication because it allows users to quickly understand trends,patterns and insights.It actually makes our analysis easy to interpret. After the session we were tasked to visualize our insights from the pivot tables above i.e question 2-4.
+
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/f172791b-fc2a-4e4b-9ac7-8237db808cbc)
+
+
+
+
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/3486b300-4022-4093-a8c7-8aa66209fd2e)
 
 
 
 
 
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/30592ae5-c452-45a9-a410-62701c709f71)
 
 
+
+
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/048139b2-dd0b-4843-9fe6-5c7b138d233a)
    
