@@ -55,21 +55,32 @@ To get answers to question 2 I used the same approached from answering question 
 
 After the pivot table sessions ,we had an interesting session which is  data visualization. Data visualization is an essential part of data analysis and communication because it allows users to quickly understand trends,patterns and insights.It actually makes our analysis easy to interpret. After the session we were tasked to visualize our insights from the pivot tables above i.e question 2-4.
 
-![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/f172791b-fc2a-4e4b-9ac7-8237db808cbc)
+
+# ACTIVITIES
+
+On my pivot table sheet I clicked on a cell within question 2, then clicked on pivot table analyse and select the  pivot chart ,then the next action was to select the chart I needed for the Job. choosing a suitable chart makes your analysis easy to understand So for this,i selected the column chart from the dropdowns, after selecting i copied it by right clicking and moved to a fresh worksheet for proper editing and viewing.
+In editing i removed some distractions that wasnt needed by clicking on the + by the right side of my chart.
+
+
+
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/412d006f-54e8-41c7-872f-3f9561349b26)
 
 
 
 
-![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/3486b300-4022-4093-a8c7-8aa66209fd2e)
+
+
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/9a315a08-3b19-4a0a-a6d4-f3998961ec8a)
 
 
 
 
 
-![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/30592ae5-c452-45a9-a410-62701c709f71)
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/22e96e08-811b-4893-9ae5-0e9d7bc4fe20)
 
 
 
 
-![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/048139b2-dd0b-4843-9fe6-5c7b138d233a)
-   
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/e69d9b40-8f19-4949-bb31-7fc15512452d)
+
+
