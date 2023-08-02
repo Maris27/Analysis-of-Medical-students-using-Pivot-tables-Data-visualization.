@@ -69,7 +69,6 @@ In editing i removed some distractions that wasnt needed by clicking on the + by
 
 
 
-
 ![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/9a315a08-3b19-4a0a-a6d4-f3998961ec8a)
 
 
