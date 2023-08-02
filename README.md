@@ -6,7 +6,8 @@
 # MEDICAL STUDENT DATA SET
 Before answering the questions from the task,i had to clean the data by filling out the blank spaces using the average value from the numerical fields while i filled others using the value that suit me in other to answer my questions seamlessly.
 
-![image](https://github.com/Maris27/TASK-1-On-Pivot-Tables/assets/140453106/1bac8e30-6276-49f3-9e80-372272ca80ee)
+![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/44d2977d-3381-4d04-b9ec-299559f37a8c)
+
 
 # QUESTIONS
 1. We were asked to create pivot tables which displays the average values of (Age,BMI,Temperature,Heart rate,Blood pressure and chlolesterol)for Both male and female students.
