@@ -51,5 +51,14 @@ To get answers to question 2 I used the same approached from answering question 
 
 
 
+# DATA VISUALIZATION
+
+After the pivot table sessions ,we had an interesting session which is  data visualization. Data visualization is an essential part of data analysis and communication because it allows users to quickly understand trends,patterns and insights.It actually makes our analysis easy to interpret. After the session we were asked to visualize our insights from the pivot tables above.
+
+
+
+
+
+
 
    
