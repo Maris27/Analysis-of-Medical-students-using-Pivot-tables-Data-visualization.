@@ -39,12 +39,12 @@ To get answers to question 2 I used the same approached from answering question 
 
 ![image](https://github.com/Maris27/TASK-1-On-Pivot-Tables/assets/140453106/eb44ab73-55b6-46d6-a2ee-7202681b6fc2)
 
-4. I used same approach for question 3 for answering this, the difference was in this case i was tasked to analyze students that smoke and those that dont, so i dragged smoking to the row field so my YES/NO options can drop below it,then i also dragged the gender down to the value field and changed the value field to count so the number of student that smoke and those that dont can be summarized.
+4. I used same approach from question 3 for answering this, the difference was in this case i was tasked to analyze students that smoke and those that dont, so i dragged smoking to the row field so my YES/NO options can drop below it,then i also dragged the gender down to the value field and changed the value field to count so the number of student that smoke and those that dont can be summarized.
 
 
 ![image](https://github.com/Maris27/TASK-1-On-Pivot-Tables/assets/140453106/1dbbd3d1-e60a-4d36-83f6-a92f45f7e14b)
 
-5.Also used same approach for question 3 and 4 to answer this , but in this case i analysed students that have diabetes and those that dont.
+5.I also used same approach for question 3 and 4 to answer this , but in this case i analysed students that have diabetes and those that dont.
 
 
 
@@ -58,8 +58,10 @@ After the pivot table sessions ,we had an interesting session which is  data vis
 
 # ACTIVITIES
 
-On my pivot table sheet I clicked on a cell within question 2, then clicked on pivot table analyse and select the  pivot chart ,then the next action was to select the chart I needed for the Job. choosing a suitable chart makes your analysis easy to understand So for this,i selected the column chart from the dropdowns, after selecting i copied it by right clicking and moved to a fresh worksheet for proper editing and viewing.
-In editing i removed some distractions that wasnt needed by clicking on the + by the right side of my chart.
+On my pivot table sheet I clicked on a cell within question 2, then clicked on pivot table analyse and select the  pivot chart ,then the next action was to select the chart I needed for the Job. choosing a suitable chart makes your analysis easy to understand So for this,i selected the column chart from the dropdowns. After selecting i copied it by right clicking and moved to a fresh worksheet for proper editing and viewing.
+In editing i removed some distractions that wasnt needed. 
+Followed the same procedure for Chart 3, 4 and 5.
+
 
 
 
@@ -70,7 +72,6 @@ In editing i removed some distractions that wasnt needed by clicking on the + by
 
 
 ![image](https://github.com/Maris27/Tasks-on-Pivot-Tables-And-Data-Visualization/assets/140453106/9a315a08-3b19-4a0a-a6d4-f3998961ec8a)
-
 
 
 
